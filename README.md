@@ -2,6 +2,12 @@
   <h1> Hi there, I'm Jinsung! 👋 </h1>
 </div>
 
+<div align="center">
+💡  프론트엔드 개발자를 목표로 하고 있습니다.
+🌱  새로운 기술들을 두려움 없이 빠르게 배워 활용할 것입니다.
+  
+</div>
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
